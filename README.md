@@ -1,4 +1,4 @@
-# Lane's-Choice-Calendar
+# Lane's-Choice-Calendar(Open Beta)
 
 Lane's Choice Calendar is a public calendar which shows accessible, valuable meetings and discussions that are selected by Primitives Lane. 
 **No endorsement by Primitives Lane should be assumed.**
