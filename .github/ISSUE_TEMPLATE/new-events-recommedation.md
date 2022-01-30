@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Event Name:
+Event:
 Organizer:
 Link:
 Tags:
