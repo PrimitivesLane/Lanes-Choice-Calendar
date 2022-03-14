@@ -13,6 +13,7 @@ Lane's Choice Calendar is a public calendar which shows accessible, valuable mee
 * Online Ethereum Events listed on [Ethereum.org](https://ethereum.org/en/community/events/)
 * [Protocol Labs Research Seminar Series](https://github.com/protocol/research/blob/master/research-events/research-seminars.md)
 * [Wanxiang Blockchain Fengchao Online Meeting](https://www.blockchainlabs.org/fengchao.html)
+* [Crypto Tech Night](https://calendar.google.com/calendar/u/0/embed?src=c_i9stvjsrjkedtls1me2v3dea8k@group.calendar.google.com&ctz=Asia/Hong_Kong)
 
 
 
