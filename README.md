@@ -6,14 +6,14 @@ Lane's Choice Calendar is a public calendar which shows accessible, valuable mee
 ## Events embedded
 * [Bitcoin Core PR Review Club Meetings](https://bitcoincore.reviews/)
 * [Bitcoin IRC Meetings](https://bitcoincore.org/en/meetings/)
-* [Ethereum Protocol Call](https://calendar.google.com/calendar/u/0/embed?src=c_upaofong8mgrmrkegn7ic7hk5s@group.calendar.google.com&ctz=Asia/Shanghai)
+* [Ethereum Protocol Call](https://github.com/ethereum/pm)
 * [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
 * [MakerDAO-Governance and Risk Meetings](https://forum.makerdao.com/c/governance/gnr/8)
 * [MEV Ship](https://github.com/flashbots/pm)
 * Online Ethereum Events listed on [Ethereum.org](https://ethereum.org/en/community/events/)
 * [Protocol Labs Research Seminar Series](https://github.com/protocol/research/blob/master/research-events/research-seminars.md)
 * [Wanxiang Blockchain Fengchao Online Meeting](https://www.blockchainlabs.org/fengchao.html)
-* [Crypto Tech Night](https://calendar.google.com/calendar/u/0/embed?src=c_i9stvjsrjkedtls1me2v3dea8k@group.calendar.google.com&ctz=Asia/Hong_Kong)
+* [Crypto Tech Night](https://space.bilibili.com/1560365248)
 
 
 
